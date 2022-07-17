@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushsingh2108" alt="ankushsingh2108" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mon2friman" target="blank"><img src="https://img.shields.io/twitter/follow/mon2friman?logo=twitter&style=for-the-badge" alt="mon2friman" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Ankushstwt" target="blank"><img src="https://img.shields.io/twitter/follow/mon2friman?logo=twitter&style=for-the-badge" alt="mon2friman" /></a> </p>
 
 - 🌱 I’m currently learning **Computer Vision and Networking**
 
@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mon2friman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mon2friman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankush-singh-77268018b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankush-singh-77268018b" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ankushsingh2112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ankushsingh2112" height="30" width="40" /></a>
+<a href="https://twitter.com/Ankushstwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ankushstwt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankushsing2108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankushsingh2108" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ankushsingh2112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ankushsingh2112" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
