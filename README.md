@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushsingh2108" alt="ankushsingh2108" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Ankushstwt" target="blank"><img src="https://img.shields.io/twitter/follow/mon2friman?logo=twitter&style=for-the-badge" alt="mon2friman" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Ankushstwt" target="blank"><img src="https://img.shields.io/twitter/follow/Ankushstwt?logo=twitter&style=for-the-badge" alt="mon2friman" /></a> </p>
 
 - 🌱 I’m currently learning **Computer Vision and Networking**
 
