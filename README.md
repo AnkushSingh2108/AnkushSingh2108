@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankush Singh</h1>
 <h3 align="center">I am Passionate about Machine Learning and new Technologies!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushsingh2108&label=Profile%20views&color=0e75b6&style=flat" alt="ankushsingh2108" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushsingh2108&label=Profile%20views&color=0e75b6&style=flat&auth=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" alt="ankushsingh2108" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushsingh2108" alt="ankushsingh2108" /></a> </p>
 
