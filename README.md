@@ -2,7 +2,9 @@
 <h3 align="center">I am Passionate about Machine Learning and new Technologies!!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushsingh2108" alt="ankushsingh2108" /></a> </p>
-
+ 
+ <img  height="30" src="https://komarev.com/ghpvc/?username=AnkushSingh2108&label=Profile%20views&color=0e75b6&logo=appveyor" alt="ankushsingh2108" /> 
+ </p>
 <p align="left"> <a href="https://twitter.com/Ankushstwt" target="blank"><img src="https://img.shields.io/twitter/follow/Ankushstwt?logo=twitter&style=for-the-badge" alt="mon2friman" /></a> </p>
 
 - 🌱 I’m currently learning **Computer Vision and Networking**
